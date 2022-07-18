@@ -2,8 +2,8 @@
 body{
   color: azure;
   background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(./image/background4.png);
-  width: 100%;
-  height: 100%;
+  width: auto;
+  height: auto;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
